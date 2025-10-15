@@ -9,4 +9,9 @@ p {
 }
 body {
     text-align: center;
+
+      background-image: url("https://www.google.com/imgres?q=drive%20mad&imgurl=https%3A%2F%2Fimg.poki-cdn.com%2Fcdn-cgi%2Fimage%2Fq%3D78%2Cscq%3D50%2Cwidth%3D204%2Cheight%3D204%2Cfit%3Dcover%2Cf%3Dauto%2Fa4de0b7936e98f0843e8ef40a428ee2e%2Fdrive-mad.png&imgrefurl=https%3A%2F%2Fpoki.com%2Fnl%2Fg%2Fdrive-mad&docid=SmIDTj6PjE_67M&tbnid=YpMcjBHCdrsYZM&vet=12ahUKEwiM0eGX26aQAxU39AIHHfFyDggQM3oECBgQAA..i&w=204&h=204&hcb=2&ved=2ahUKEwiM0eGX26aQAxU39AIHHfFyDggQM3oECBgQAA");
+      background-repeat: no-repeat;      /* Prevents tiling */
+      background-size: cover;            /* Makes it fill the screen */
+      background-position: center;       /* Centers the image */
 }
