@@ -8,10 +8,12 @@ p {
       text-align: center;
 }
 body {
-    text-align: center;
+      text-align: center;
 
       background-image: url("https://img.poki-cdn.com/cdn-cgi/image/q=78,scq=50,width=204,height=204,fit=cover,f=auto/a4de0b7936e98f0843e8ef40a428ee2e/drive-mad.png");
-      background-repeat: no-repeat;      /* Prevents tiling */
-      background-size: cover;            /* Makes it fill the screen */
-      background-position: center;       /* Centers the image */
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      height: 100vh;
+      margin: 0;
 }
